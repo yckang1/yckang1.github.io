@@ -2,13 +2,19 @@
 #### Frameworks/Libraries: PyTorch, TensorFlow, Huggingface, Keras, Pandas, Numpy, Matplotlib, Scikit-learn
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Analysis Engineer Intern @ Hanwha Qcells (_March 2024 - June 2024_)**
+- Led the development of a comprehensive annual base case for PJM Interconnection utilizing Production Cost Modeling techniques.
+- Leveraged Python to evaluate dozens of solar and battery systems, streamlining risk assessment and informed decision-making.
+- Delivered data-driven presentations to executive leadership, influencing strategic decisions for 4 nationwide energy installations.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+**Research Intern @ Latimer Energy Lab - Santa Clara University (_June 2022 - September 2022_)**
+- Engineered and designed a cooling system for solar arrays, achieving 1.5% efficiency gain through reduction of byproduct heat..
+- Leveraged Matlab to analyze California's power consumption data, delivering key insights for optimizing energy distribution.
+
+
+**Data Engineer Intern @ Triple Ring Technologies (_July 2019 - September 2019_)**
+- Implemented Python-based data cleaning and processing techniques for gas sensor data, improving production yield by 10%.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -29,8 +35,11 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - M.S., Electrical and Computer Engineering	| University of California, Irvine (_September 2023 to Present_)	 			        		
 - B.S., Electrical Engineering | Santa Clara University (_September 2019 to June 2023_)
 
-## Other
-1. Cramer, Terrin; Kang, Yicheng; and Ogino, Ryan, "Biomimicry in Solar Energy Applications" (2023). Electrical and Computer Engineering Senior Theses. 80.
-https://scholarcommons.scu.edu/elec_senior/80
+### Other
+## President: Santa Clara Energy Club (_September 2022 to June 2023_)
 
-- [Undergraduate Senior Thesis](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
+- Coordinating educational outreach with engineers in industry, brainstorming strategy with fellow student organizations, spreading awareness of global sustainability issues.
+
+## Undergraduate Senior Thesis: Biomimicry in Solar Energy Applications
+
+- [Link](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
