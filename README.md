@@ -17,6 +17,7 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 
 **Data Engineer Intern @ Triple Ring Technologies (_Newark, CA, USA, July 2019 - September 2019_)**
 - Implemented Python-based data cleaning and processing techniques for gas sensor data, improving production yield by 10%.
+- Gained hands-on experience with microscopy, SEM imaging, and building/testing hardware components.
 
 ## Projects
 ### DL Accelerator Dataflow Optimization (_Fall 2024_)
