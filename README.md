@@ -26,7 +26,7 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 - Designed a **linear regression** model to predict future energy usage and consumption from historical weather parameters with LSTM and Recurrent Neural Networks (RNN). Preprocessed data and optimized on convergence analysis varying loss functions, hyperparameters, and regularization techniques like **Early Stopping** and **Dropout Layers**. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
 
 ### Data Anonymization for Data Privacy (_Spring 2024_)
-- Development of a **Generative Adversarial Network (GAN)-based framework** for generating synthetic datasets to address critical privacy protection issues, achieving an **F1 score** of 0.32 and difference of 15% in accuracy between real and synthetic training data. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
+- Development of a **Generative Adversarial Network (GAN)-based framework** for generating synthetic adult income datasets to address critical privacy protection issues, achieving an **F1 score** of 0.32 and difference of 15% in accuracy between real and synthetic training data. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
 
 ### Image Deblurring (_Winter 2024_)
 [Literature Review and Report](https://docs.google.com/document/d/1iQkERSrwIz9NW9M8W961cerggfzmE6BHf5W-OTEfSz0/edit?usp=sharing)
