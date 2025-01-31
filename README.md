@@ -40,6 +40,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 - Coordinating educational outreach with engineers in industry, brainstorming strategy with fellow student organizations, spreading awareness of global sustainability issues.
 
-#### Undergraduate Senior Thesis: Biomimicry in Solar Energy Applications
+#### Undergraduate Senior Thesis
 
-- [Link](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
+- [Biomimicry in Solar Energy Applications](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
