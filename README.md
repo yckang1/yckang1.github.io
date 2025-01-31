@@ -1,5 +1,3 @@
-# Full Portfolio
-
 #### Languages: Python, SQL, C, Matlab 
 #### Frameworks/Libraries: PyTorch, TensorFlow, Huggingface, Keras, Pandas, Numpy, Matplotlib, Scikit-learn
 
