@@ -1,3 +1,6 @@
+Hello and welcome to my portfolio! I am an aspiring technologist and lifelong learner, fervent on leveraging ML-driven solutions to improve quality of life and foster a sustainable future. Currently pursuing a Master of Science in Electrical and Computer Engineering at the University of California, Irvine, with an emphasis in Machine Learning and Data Science. Thanks for stopping by!
+
+
 #### Languages: Python, SQL, C, Matlab 
 #### Frameworks/Libraries: PyTorch, TensorFlow, Huggingface, Keras, Pandas, Numpy, Matplotlib, Scikit-learn
 
