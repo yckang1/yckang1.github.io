@@ -20,31 +20,31 @@ Hello and welcome to my portfolio! I am an aspiring technologist and lifelong le
 - Implemented Python-based data cleaning and processing techniques for gas sensor data, improving production yield by 10%.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### DL Accelerator Dataflow Optimization (_Fall 2024_)
+Solved a co-design space problem by leveraging deep learning models, dataflows, and hardware architecture through the MAESTRO cost model. Optimized **VGG16** and **UNet** Convolutional Neural Network (CNN) models through strategic parallelization and mapping, **reducing latency** by 66% and 77% respectively while operating within 95% of energy constraints. (PyTorch)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Timeseries Energy Consumption Prediction (_Spring 2024_)
+Designed a **linear regression** model to predict future energy usage and consumption from historical weather parameters with LSTM and Recurrent Neural Networks (RNN). Preprocessed data and optimized on convergence analysis varying loss functions, hyperparameters, and regularization techniques like **Early Stopping** and **Dropout Layers**. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Data Anonymization for Data Privacy (_Spring 2024_)
+Development of a **Generative Adversarial Network (GAN)-based framework** for generating synthetic datasets to address critical privacy protection issues, achieving an **F1 score** of 0.32 and difference of 15% in accuracy between real and synthetic training data. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Image Deblurring (_Winter 2024_)
+[Literature Review and Report](https://docs.google.com/document/d/1iQkERSrwIz9NW9M8W961cerggfzmE6BHf5W-OTEfSz0/edit?usp=sharing)
+Image restoration using the **Alternating Direction Method of Multipliers (ADMM)** algorithm with Total Variation (TV) regularization, evaluated on convergence analysis. (TensorFlow, Numpy, Pandas, Scikit-image, Scipy, Matplotlib)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+### Facial Recognition Optimization (_Fall 2023_)
+Utilized **unsupervised machine learning algorithms** like **Isomap** and **Locally Linear Embedding (LLE)** to perform dimensionality reduction on facial image data (LFW), analyzed on structural preservation and neighbor similarity for facial recognition suitability. (TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib)
 
 ## Education							       		
 - M.S., Electrical and Computer Engineering	| University of California, Irvine (_September 2023 to Present_)	 			        		
-- B.S., Electrical Engineering | Santa Clara University (_September 2019 to June 2023_)
+- B.S., Electrical Engineering | Santa Clara University</br>(_September 2019 to June 2023_)
 
 ## Other
 #### President: Santa Clara Energy Club (_September 2022 to June 2023_)
-
 - Coordinating educational outreach with engineers in industry, brainstorming strategy with fellow student organizations, spreading awareness of global sustainability issues.
 
 #### Undergraduate Senior Thesis
-
 - [Biomimicry in Solar Energy Applications](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
 
 
