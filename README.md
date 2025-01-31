@@ -44,7 +44,7 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 
 ## Other
 #### President: Santa Clara Energy Club (_September 2022 to June 2023_)
-- Coordinating educational outreach with engineers in industry, brainstorming strategy with fellow student organizations, spreading awareness of global sustainability issues.
+- Coordinated educational outreach with engineers in industry, brainstormed strategy with fellow student organizations, spread awareness of global sustainability issues.
 
 #### Undergraduate Senior Thesis
 - [Biomimicry in Solar Energy Applications](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
