@@ -36,10 +36,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - B.S., Electrical Engineering | Santa Clara University (_September 2019 to June 2023_)
 
 ## Other
-### President: Santa Clara Energy Club (_September 2022 to June 2023_)
+#### President: Santa Clara Energy Club (_September 2022 to June 2023_)
 
 - Coordinating educational outreach with engineers in industry, brainstorming strategy with fellow student organizations, spreading awareness of global sustainability issues.
 
-### Undergraduate Senior Thesis: Biomimicry in Solar Energy Applications
+#### Undergraduate Senior Thesis: Biomimicry in Solar Energy Applications
 
 - [Link](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
