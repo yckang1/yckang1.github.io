@@ -21,24 +21,27 @@ Hello and welcome to my portfolio! I am an aspiring technologist and lifelong le
 
 ## Projects
 ### DL Accelerator Dataflow Optimization (_Fall 2024_)
-Solved a co-design space problem by leveraging deep learning models, dataflows, and hardware architecture through the MAESTRO cost model. Optimized **VGG16** and **UNet** Convolutional Neural Network (CNN) models through strategic parallelization and mapping, **reducing latency** by 66% and 77% respectively while operating within 95% of energy constraints. (PyTorch)
+- Solved a co-design space problem by leveraging deep learning models, dataflows, and hardware architecture through the MAESTRO cost model. Optimized **VGG16** and **UNet** Convolutional Neural Network (CNN) models through strategic parallelization and mapping, **reducing latency** by 66% and 77% respectively while operating within 95% of energy constraints. (PyTorch)
 
 ### Timeseries Energy Consumption Prediction (_Spring 2024_)
-Designed a **linear regression** model to predict future energy usage and consumption from historical weather parameters with LSTM and Recurrent Neural Networks (RNN). Preprocessed data and optimized on convergence analysis varying loss functions, hyperparameters, and regularization techniques like **Early Stopping** and **Dropout Layers**. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
+- Designed a **linear regression** model to predict future energy usage and consumption from historical weather parameters with LSTM and Recurrent Neural Networks (RNN). Preprocessed data and optimized on convergence analysis varying loss functions, hyperparameters, and regularization techniques like **Early Stopping** and **Dropout Layers**. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
 
 ### Data Anonymization for Data Privacy (_Spring 2024_)
-Development of a **Generative Adversarial Network (GAN)-based framework** for generating synthetic datasets to address critical privacy protection issues, achieving an **F1 score** of 0.32 and difference of 15% in accuracy between real and synthetic training data. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
+- Development of a **Generative Adversarial Network (GAN)-based framework** for generating synthetic datasets to address critical privacy protection issues, achieving an **F1 score** of 0.32 and difference of 15% in accuracy between real and synthetic training data. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
 
 ### Image Deblurring (_Winter 2024_)
 [Literature Review and Report](https://docs.google.com/document/d/1iQkERSrwIz9NW9M8W961cerggfzmE6BHf5W-OTEfSz0/edit?usp=sharing)
-Image restoration using the **Alternating Direction Method of Multipliers (ADMM)** algorithm with Total Variation (TV) regularization, evaluated on convergence analysis. (TensorFlow, Numpy, Pandas, Scikit-image, Scipy, Matplotlib)
+- Image restoration using the **Alternating Direction Method of Multipliers (ADMM)** algorithm with Total Variation (TV) regularization, evaluated on convergence analysis. (TensorFlow, Numpy, Pandas, Scikit-image, Scipy, Matplotlib)
 
 ### Facial Recognition Optimization (_Fall 2023_)
-Utilized **unsupervised machine learning algorithms** like **Isomap** and **Locally Linear Embedding (LLE)** to perform dimensionality reduction on facial image data (LFW), analyzed on structural preservation and neighbor similarity for facial recognition suitability. (TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib)
+- Utilized **unsupervised machine learning algorithms** like **Isomap** and **Locally Linear Embedding (LLE)** to perform dimensionality reduction on facial image data (LFW), analyzed on structural preservation and neighbor similarity for facial recognition suitability. (TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib)
+
+### Full Path Planning Stack (_Winter 2024_)
+- Integrated an RRT Node and PID Controller with a motion planner to achieve full path planning in a closed loop system using Gazebo and ROS. Engineered coordinate-based trajectory control system for autonomous robot navigation.
 
 ## Education							       		
 - M.S., Electrical and Computer Engineering	| University of California, Irvine (_September 2023 to Present_)	 			        		
-- B.S., Electrical Engineering | Santa Clara University</br>(_September 2019 to June 2023_)
+- B.S., Electrical Engineering | Santa Clara University  (_September 2019 to June 2023_)
 
 ## Other
 #### President: Santa Clara Energy Club (_September 2022 to June 2023_)
@@ -48,7 +51,10 @@ Utilized **unsupervised machine learning algorithms** like **Isomap** and **Loca
 - [Biomimicry in Solar Energy Applications](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
 
 
-## Current Favorites
+## Favorites
 - [(Book) - The Worlds I See by Dr. Fei-Fei Li](https://www.goodreads.com/book/show/144405196-the-worlds-i-see)
 - [(Source) - 3blue1brown](https://www.youtube.com/@3blue1brown)
 - [(Source) - Matt Wolfe](https://www.youtube.com/@mreflow)
+- [(TED) - EQ and The Laws of Attraction](https://www.youtube.com/watch?v=7vZmOF11P9A)
+- [(TED) - Philosophy for a Happy Life](https://www.youtube.com/watch?v=36m1o-tM05g)
+- [(TED) - Talk so People will Listen](www.youtube.com/watch?v=eIho2S0ZahI&t)
