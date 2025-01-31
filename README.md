@@ -1,5 +1,6 @@
 Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging ML-driven solutions to improve quality of life and foster a sustainable future. Currently pursuing a Master of Science in Electrical and Computer Engineering at the University of California, Irvine, with an emphasis in Machine Learning and Data Science. Thanks for stopping by!
 
+yicheng2000@gmail.com | https://www.linkedin.com/in/yckang/
 
 #### Languages: Python, SQL, C, Matlab (English, Mandarin)
 #### Frameworks/Libraries: PyTorch, TensorFlow, Huggingface, Keras, Pandas, Numpy, Matplotlib, Scikit-learn
@@ -50,6 +51,10 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 #### Undergraduate Senior Thesis
 - [Biomimicry in Solar Energy Applications](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1079&context=elec_senior)
 
+#### Licenses and Certifications
+- [OP-101: RT-LAB - Real-Time Simulation Systems Fundamentals](https://www.credential.net/b6e64bb2-8eff-4625-9a56-abffc53ab4ba#acc.lk3YyZhe)
+- [OP-203: ARTEMiS - Power Systems Real-Time Simulation](https://www.credential.net/62028dd5-990d-4bc0-b95f-f32a4344e927)
+- [OP-211: Introduction to 4-Quadrant PHIL Microgrid Testbench](https://www.credential.net/b51866ae-a0fe-412b-930e-519448b5a0c9)
 
 ## Favorites
 - [(Book) - The Worlds I See by Dr. Fei-Fei Li](https://www.goodreads.com/book/show/144405196-the-worlds-i-see)
