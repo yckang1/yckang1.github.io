@@ -47,5 +47,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Current Favorites
 - [(Book) - The Worlds I See by Dr. Fei-Fei Li](https://www.goodreads.com/book/show/144405196-the-worlds-i-see)
-- [(Source) - 3blue1brown]((https://www.youtube.com/@3blue1brown))
+- [(Source) - 3blue1brown](https://www.youtube.com/@3blue1brown)
 - [(Source) - Matt Wolfe](https://www.youtube.com/@mreflow)
