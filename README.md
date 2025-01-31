@@ -37,7 +37,7 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 - Utilized **unsupervised machine learning algorithms** like **Isomap** and **Locally Linear Embedding (LLE)** to perform dimensionality reduction on facial image data (LFW), analyzed on structural preservation and neighbor similarity for facial recognition suitability. (TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib)
 
 ### Full Path Planning Stack (_Winter 2024_)
-- Integrated an RRT Node and PID Controller with a motion planner to achieve full path planning in a closed loop system using Gazebo and ROS. Engineered coordinate-based trajectory control system for autonomous robot navigation.
+- Integrated an RRT Node and PID Controller with a motion planner to achieve full path planning in a closed loop system using Gazebo and ROS. Product is a coordinate-based trajectory control system for autonomous robot navigation.
 
 ## Education							       		
 - M.S., Electrical and Computer Engineering	| University of California, Irvine (_September 2023 to Present_)	 			        		
