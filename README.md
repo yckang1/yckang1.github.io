@@ -5,18 +5,18 @@ Hello and welcome to my portfolio! I am an aspiring technologist and lifelong le
 #### Frameworks/Libraries: PyTorch, TensorFlow, Huggingface, Keras, Pandas, Numpy, Matplotlib, Scikit-learn
 
 ## Work Experience
-**Data Analysis Engineer Intern @ Hanwha Qcells (_March 2024 - June 2024_)**
+**Data Analysis Engineer Intern @ Hanwha Qcells (_Irvine, CA, USA, March 2024 - June 2024_)**
 - Led the development of a comprehensive annual base case for PJM Interconnection utilizing Production Cost Modeling techniques.
 - Leveraged Python to evaluate dozens of solar and battery systems, streamlining risk assessment and informed decision-making.
 - Delivered data-driven presentations to executive leadership, influencing strategic decisions for 4 nationwide energy installations.
 
 
-**Research Intern @ Latimer Energy Lab - Santa Clara University (_June 2022 - September 2022_)**
+**Research Intern @ Latimer Energy Lab - Santa Clara University (_Santa Clara, CA, USA, June 2022 - September 2022_)**
 - Engineered and designed a cooling system for solar arrays, achieving 1.5% efficiency gain through reduction of byproduct heat..
 - Leveraged Matlab to analyze California's power consumption data, delivering key insights for optimizing energy distribution.
 
 
-**Data Engineer Intern @ Triple Ring Technologies (_July 2019 - September 2019_)**
+**Data Engineer Intern @ Triple Ring Technologies (_Newark, CA, USA, July 2019 - September 2019_)**
 - Implemented Python-based data cleaning and processing techniques for gas sensor data, improving production yield by 10%.
 
 ## Projects
