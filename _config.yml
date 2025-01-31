@@ -1,11 +1,6 @@
 title: Yicheng Kang
 logo: /assets/img/profilepic.png
 description: Scroll to the bottom to check out my current favorites!
-nav:
-  - title: "Email"
-    url: "yicheng2000@gmail.com"
-  - title: "LinkedIn"
-    url: "http://linkedin.com/in/yckang"
 #show_downloads: true
 github: false
 theme: jekyll-theme-minimal
