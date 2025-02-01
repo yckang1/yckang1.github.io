@@ -20,9 +20,6 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 - Gained hands-on experience with microscopy, SEM imaging, and building/testing hardware components.
 
 ## Projects
-### DL Accelerator Dataflow Optimization (_Fall 2024_)
-- Solved a co-design space problem by leveraging deep learning models, dataflows, and hardware architecture through the MAESTRO cost model. Optimized **VGG16** and **UNet** Convolutional Neural Network (CNN) models through strategic parallelization and mapping, **reducing latency** by 66% and 77% respectively while operating within 95% of energy constraints. (PyTorch)
-
 ### Timeseries Energy Consumption Prediction (_Spring 2024_)
 - Designed a **linear regression** model to predict future energy usage and consumption from historical weather parameters with LSTM and Recurrent Neural Networks (RNN). Preprocessed data and optimized on convergence analysis varying loss functions, hyperparameters, and regularization techniques like **Early Stopping** and **Dropout Layers**. (TensorFlow, Keras, Scikit-learn, Numpy, Pandas, Matplotlib)
 
@@ -33,8 +30,11 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 [Literature Review and Report](https://docs.google.com/document/d/1iQkERSrwIz9NW9M8W961cerggfzmE6BHf5W-OTEfSz0/edit?usp=sharing)
 - Image restoration using the **Alternating Direction Method of Multipliers (ADMM)** algorithm with Total Variation (TV) regularization, evaluated on convergence analysis. (TensorFlow, Numpy, Pandas, Scikit-image, Scipy, Matplotlib)
 
-### Facial Recognition Optimization (_Fall 2023_)
+### Facial Recognition Optimization (_Winter 2024_)
 - Utilized **unsupervised machine learning algorithms** like **Isomap** and **Locally Linear Embedding (LLE)** to perform dimensionality reduction on facial image data (LFW), analyzed on structural preservation and neighbor similarity for facial recognition suitability. (TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib)
+
+### DL Accelerator Dataflow Optimization (_Fall 2023_)
+- Solved a co-design space problem by leveraging deep learning models, dataflows, and hardware architecture through the MAESTRO cost model. Optimized **VGG16** and **UNet** Convolutional Neural Network (CNN) models through strategic parallelization and mapping, **reducing latency** by 66% and 77% respectively while operating within 95% of energy constraints. (PyTorch)
 
 ### Full Path Planning Stack (_Winter 2024_)
 - Integrated an RRT Node and PID Controller with a motion planner to achieve full path planning in a closed loop system using Gazebo and ROS. Product is a coordinate-based trajectory control system for autonomous robot navigation.
