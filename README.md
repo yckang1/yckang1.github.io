@@ -20,7 +20,7 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 - Gained hands-on experience with microscopy, SEM imaging, and building/testing hardware components.
 
 ## Projects
-### LLM FINE-TUNING FOR URL PHISHING (_Fall 2024_)
+### LLM Fine-Tuning for URL Phishing (_Fall 2024_)
 - Implemented a fine-tuned phishing binary classification system using **BERT-based Natural Language Processing** (NLP) models from **Huggingface Transformers**. Engineered LLM pipeline including data preprocessing and tokenization. Employed Weights and Biases for experiment tracking and logging with **results** of 88% accuracy and 0.93 AUC score.
 
 ### Timeseries Energy Consumption Prediction (_Spring 2024_)
