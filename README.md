@@ -1,7 +1,7 @@
 Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging ML-driven solutions to improve quality of life and foster a sustainable future. Currently pursuing a Master of Science in Electrical and Computer Engineering at the University of California, Irvine, with an emphasis in Machine Learning and Data Science. Thanks for stopping by and [Let's Connect!](https://www.linkedin.com/in/yckang/)
 
 #### Languages: Python, SQL, C, Matlab (English, Mandarin)
-#### Frameworks/Libraries: PyTorch, TensorFlow, Huggingface, Keras, Pandas, Numpy, Matplotlib, Scikit-learn
+#### Frameworks/Libraries: PyTorch, TensorFlow, Huggingface, Keras, Pandas, Numpy, Matplotlib, Scikit-learn, Weights and Biases
 
 ## Work Experience
 **Data Analysis Engineer Intern @ Hanwha Qcells (_Irvine, CA, USA, March 2024 - June 2024_)**
