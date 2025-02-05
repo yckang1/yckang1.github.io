@@ -11,8 +11,8 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 
 
 **Research Intern @ Latimer Energy Lab - Santa Clara University (_Santa Clara, CA, USA, June 2022 - September 2022_)**
-- Conducted extensive literature synthesis by examining 20+ publications for control system optimization and renewable technology.
-- Engineered and designed a cooling system for solar arrays, achieving 1.5% efficiency gain through reduction of byproduct heat.
+- Conducted extensive literature synthesis by examining 20+ publications for control system optimization and developments in renewable technology.
+- Engineered and designed biomimetic cooling system for solar arrays, achieving 1.5% efficiency gain through reduction of byproduct heat.
 - Leveraged Matlab to analyze California's power consumption data, delivering key insights for optimizing energy distribution.
 
 
