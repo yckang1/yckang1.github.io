@@ -7,7 +7,7 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 **Data Analysis Engineer Intern @ Hanwha Qcells (_Irvine, CA, USA, March 2024 - June 2024_)**
 - Led the development of a comprehensive annual base case for PJM Interconnection utilizing Production Cost Modeling techniques.
 - Delivered data-driven presentations to executive leadership, influencing strategic decisions for **4** nationwide energy installations.
-- Evaluated **dozens** of solar and battery storage generators, streamlining risk assessment and informed decision-making.
+- Evaluated **dozens** of solar and battery storage generators, streamlining curtailment and basis risk assessment for informed decision-making.
 
 
 **Research Intern @ Latimer Energy Lab - Santa Clara University (_Santa Clara, CA, USA, June 2022 - September 2022_)**
