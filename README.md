@@ -11,9 +11,9 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 
 
 **Research Intern @ Latimer Energy Lab - Santa Clara University (_Santa Clara, CA, USA, June 2022 - September 2022_)**
-- Engineered and designed a cooling system for solar arrays, achieving 1.5% efficiency gain through reduction of byproduct heat..
-- Leveraged Matlab to analyze California's power consumption data, delivering key insights for optimizing energy distribution.
 - Conducted extensive literature synthesis by examining 20+ publications for control system optimization and renewable technology.
+- Engineered and designed a cooling system for solar arrays, achieving 1.5% efficiency gain through reduction of byproduct heat.
+- Leveraged Matlab to analyze California's power consumption data, delivering key insights for optimizing energy distribution.
 
 
 **Data Engineer Intern @ Triple Ring Technologies (_Newark, CA, USA, July 2019 - September 2019_)**
