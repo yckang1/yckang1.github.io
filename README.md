@@ -61,8 +61,10 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 
 ## Favorites
 - [(Book) - The Worlds I See by Dr. Fei-Fei Li](https://www.goodreads.com/book/show/144405196-the-worlds-i-see)
-- [(Source) - 3blue1brown](https://www.youtube.com/@3blue1brown)
-- [(Source) - Matt Wolfe](https://www.youtube.com/@mreflow)
+- [(Informative) - 3blue1brown](https://www.youtube.com/@3blue1brown)
+- [(Informative) - Matt Wolfe](https://www.youtube.com/@mreflow)
+- [(Source) - VideoJAM from Meta AI](https://hila-chefer.github.io/videojam-paper.github.io/)
+- [(Source) - Graph Neural Networks for Power Systems](https://arxiv.org/pdf/2101.10025)
 - [(TED) - EQ and The Laws of Attraction](https://www.youtube.com/watch?v=7vZmOF11P9A)
 - [(TED) - Philosophy for a Happy Life](https://www.youtube.com/watch?v=36m1o-tM05g)
 - [(TED) - Talk so People will Listen](www.youtube.com/watch?v=eIho2S0ZahI&t)
