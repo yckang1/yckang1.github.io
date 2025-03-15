@@ -21,6 +21,9 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 - Gained hands-on experience with microscopy, SEM imaging, and building/testing hardware components.
 
 ## Projects
+### An Experiment on Graph Neural Network Recommendation Systems (_Winter 2025_)
+- Implemented and benchmarked a **Graph Convolutional Network (GCN)** for movie recommendation against a Collaborative Filtering (CF) model using the MovieLens dataset. Optimized embeddings, evaluated precision-recall metrics, and explored techniques for improving cold-start performance and diversity in recommendations.
+
 ### LLM Fine-Tuning for URL Phishing (_Fall 2024_)
 - Implemented a fine-tuned phishing binary classification system using **BERT-based Natural Language Processing** (NLP) models from **Huggingface Transformers**. Engineered LLM pipeline including data preprocessing and tokenization. Employed Weights and Biases for experiment tracking and logging with **results** of 88% accuracy and 0.93 AUC score.
 
