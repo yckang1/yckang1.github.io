@@ -22,6 +22,7 @@ Hello! I am an aspiring technologist and lifelong learner, fervent on leveraging
 
 ## Projects
 ### An Experiment on Graph Neural Network Recommendation Systems (_Winter 2025_)
+[Report](https://docs.google.com/document/d/1i8H2xmclcBV9BwBXvQjg1FzmHI8H--rKYGX5m5XxU4U/edit?usp=sharing)
 - Implemented and benchmarked a **Graph Convolutional Network (GCN)** for movie recommendation against a Collaborative Filtering (CF) model using the MovieLens dataset. Optimized embeddings, evaluated precision-recall metrics, and explored techniques for improving cold-start performance and diversity in recommendations.
 
 ### LLM Fine-Tuning for URL Phishing (_Fall 2024_)
